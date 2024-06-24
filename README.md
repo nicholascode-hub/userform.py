@@ -1,2 +1,4 @@
 # userform.py
- a userform with a simple layout made with tkinter library 
+
+A userform made with python,
+simple layout using the tkinter library .
